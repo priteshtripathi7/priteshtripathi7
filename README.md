@@ -29,12 +29,7 @@
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=priteshtripathi7&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=priteshtripathi7&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=priteshtripathi7&hide=css&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=priteshtripathi7&hide=css&theme=tokyonight&langs_count=5" />
-</a>
+[![Pritesh's GitHub stats] (https://github-readme-stats.vercel.app/api?username=priteshtripathi7)](https://github.com/priteshtripathi7/github-readme-stats)
 </div>
 
 
