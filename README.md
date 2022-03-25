@@ -22,15 +22,12 @@
 
 <br />
 
-## :trophy: My Github Stats:
+<!-- ## :trophy: My Github Stats:
 
 <!--
 ![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-[![Pritesh's GitHub stats] (https://github-readme-stats.vercel.app/api?username=priteshtripathi7)](https://github.com/priteshtripathi7/github-readme-stats)
-</div>
+ -->
 
 
 
