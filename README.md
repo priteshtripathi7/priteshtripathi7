@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Pritesh Tripathi][website] 😀
+## Hi there 👋 I'm [Pritesh Tripathi][website]
 ![](https://visitor-badge.laobi.icu/badge?page_id=priteshtripathi7.priteshtripathi7) [![Github](https://img.shields.io/github/followers/priteshtripathi7?label=Followers&logo=Github)](https://github.com/priteshtripathi7)
 
 ## :email: Find me on:
